@@ -1,0 +1,8 @@
+main: fr.zayn.dev.amende.Main
+name: Amende
+version: 2.3.4
+author: Mine_ZaYn
+commands:
+  amende:
+  ainfo:
+  menottes:
